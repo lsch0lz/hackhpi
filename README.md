@@ -1,1 +1,1 @@
-# hackhpi
+# HackHPI
